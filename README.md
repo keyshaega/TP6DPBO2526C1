@@ -1,2 +1,19 @@
-# TP6DPBO2526C1
-Tugas Praktikum 6 DPBO 2026
+# Flappy Bird – Java Swing
+
+Aplikasi permainan **Flappy Bird sederhana** yang dikembangkan menggunakan bahasa pemrograman Java dan library Java Swing.
+
+Pemain mengendalikan seekor burung agar dapat melewati celah di antara pipa tanpa menabrak pipa maupun tanah. Pemain harus mempertahankan burung selama mungkin untuk mendapatkan skor tertinggi.
+
+---
+
+##  Fitur Aplikasi
+
+-  Tampilan permainan menggunakan Java Swing.
+-  Burung bergerak mengikuti efek gravitasi.
+-  Tombol `SPACE` digunakan untuk membuat burung mengepak ke atas.
+-  Pipa bergerak dari kanan ke kiri dengan posisi celah yang bervariasi.
+-  Skor bertambah setiap kali burung berhasil melewati pipa.
+-  Menampilkan skor saat ini (*Current Score*) dan skor terbaik (*Best Score*) selama aplikasi berjalan.
+-  Permainan berakhir ketika burung menabrak pipa, bagian atas layar, atau tanah.
+-  Pemain dapat memulai ulang permainan setelah kondisi *Game Over*.
+-  Jika gambar burung tidak ditemukan, aplikasi menampilkan bentuk burung sederhana sebagai pengganti.
