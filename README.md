@@ -1,3 +1,9 @@
+# Janji
+
+
+Saya Keysha Ega Magani dengan NIM 2507925 mengerjakan Tugas Praktikum 6 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahan-Nya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+
 # Flappy Bird – Java Swing
 
 Aplikasi permainan **Flappy Bird sederhana** yang dikembangkan menggunakan bahasa pemrograman Java dan library Java Swing.
